@@ -26,6 +26,12 @@ Highly skilled web developer with expertise in React, Node.js,SQL and more. Avai
 - Linux
 - Docker
 - CI/CD
+- CSS
+- React
+- React-Redux
+- Bootstrap
+- Material UI
+- TypeScript
 
 ## Languages
 - Hebrew: Mother tongue
@@ -45,21 +51,10 @@ Highly skilled web developer with expertise in React, Node.js,SQL and more. Avai
 ### Full Stack Developer (Self-Project)
 - Developed a full-featured B2B e-commerce website, including an admin-app, main-app, and backend.
 
-Furthermore, I volunteered as a Full-Stack Developer for CfI, an organization that connects the Israeli high-tech ecosystem with social problem-solvers.
+Furthermore, I **volunteered** as a Full-Stack Developer for CfI, an organization that connects the Israeli high-tech ecosystem with social problem-solvers.
 
 ## Contact
 - **Phone:** 050-7353157
 - **Email:** kiglerr@gmail.com
 - **GitHub:** [https://github.com/ALONKIGLER](https://github.com/ALONKIGLER)
 - **LinkedIn:** [http://www.linkedin.com/in/Alon-Kigler](http://www.linkedin.com/in/Alon-Kigler)
-
-## Front-end Technologies
-- CSS
-- React
-- React-Redux
-- Bootstrap
-- Material UI
-- TypeScript
-
-## Back-end Technologies
-<!-- Add details about your back-end technologies here -->
