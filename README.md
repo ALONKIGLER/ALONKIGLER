@@ -2,8 +2,6 @@
 
 # Alon Kigler - Full Stack Developer
 
-In my role, I leverage my passion and skills for web development and cybersecurity to create seamless user experiences and robust web applications. I collaborate with a team of talented professionals, problem-solve, and continuously learn to stay up-to-date with the latest technologies and best practices. I am also pursuing a bachelor's degree in industrial engineering from Ben-Gurion University of the Negev, which enhances my analytical and critical thinking abilities. I am excited to continue growing my skills and delivering high-quality projects that exceed user expectations. Let's connect and see how we can work together!
-
 ## Professional Skills Profile
 - Highly skilled web developer with expertise in React, Node.js, SQL, and more.
 - Quick learner and valuable team player.
