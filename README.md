@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # Alon Kigler - Full Stack Developer
+Highly skilled web developer with expertise in React, Node.js,SQL and more. Available 6-7 days a week and eager to grow in a web development role. Quick learner and valuable team player.
 
 ## Professional Skills Profile
 - Highly skilled web developer with expertise in React, Node.js, SQL, and more.
