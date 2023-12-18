@@ -6,7 +6,6 @@ In my role, I leverage my passion and skills for web development and cybersecuri
 
 ## Professional Skills Profile
 - Highly skilled web developer with expertise in React, Node.js, SQL, and more.
-- Available 6-7 days a week and eager to grow in a web development role.
 - Quick learner and valuable team player.
 
 ## Education
